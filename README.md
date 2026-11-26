@@ -1,3 +1,5 @@
+<img src="assets/sendrail-logo.png" width="72" alt="Sendrail">
+
 # Sendrail skills
 
 Agent skills for [Sendrail](https://sendrail.cz), an SMS API with its own network of GSM gateways: transactional SMS, verification codes (OTP), number check, opt-outs, webhooks.
